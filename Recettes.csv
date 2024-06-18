@@ -1,11 +1,11 @@
-Plat;Corps_gras_g;Lait_g;Sucre_g;Å’ufs_g;Farine_g;Choco_g
-GÃ¢teau au chocolat;120;0;150;150;80;200
-CrÃªpes froment;128;1000;40;200;400;0
+Plat;Corps_gras_g;Lait_g;Sucre_g;Œufs_g;Farine_g;Choco_g
+Gâteau au chocolat;120;0;150;150;80;200
+Crêpes froment;128;1000;40;200;400;0
 Clafoutis;0;250;50;200;125;0
 Quiche;400;150;0;150;0;0
 Pancakes;45;200;36;150;200;0
 Pain perdu;10;500;54;150;0;0
-SoufflÃ©;10;500;0;400;60;0
+Soufflé;10;500;0;400;60;0
 Cookies;53;0;93;50;107;53
 Madeleines;320;0;400;600;480;0
 Gaufres;64;640;64;150;400;0
@@ -15,23 +15,23 @@ Brioche;50;22;16;100;100;0
 Scones;33;133;33;50;300;0
 Tarte au citron;70;0;100;200;0;0
 Mousse au chocolat;0;0;67;250;0;267
-Ã‰clair au chocolat;110;350;75;210;75;160
+Éclair au chocolat;110;350;75;210;75;160
 Macarons;128;208;32;0;360;25
 Galette des rois;60;0;150;150;0;0
 Petits choux;280;2200;210;300;200;400
-CrÃ¨me brÃ»lÃ©e;400;500;120;400;0;0
+Crème brûlée;400;500;120;400;0;0
 Croissant;100;60;20;50;200;0
 Viennoise;133;347;7.5;0;667;0
-Omelette norvÃ©gienne;0;0;367;370;167;0
-GÃ¢teau au fromage blanc;667;0;133;200;120;0
-GÃ¢teau basque;120;500;325;220;340;0
-CanelÃ©s;40;800;400;190;200;0
+Omelette norvégienne;0;0;367;370;167;0
+Gâteau au fromage blanc;667;0;133;200;120;0
+Gâteau basque;120;500;325;220;340;0
+Canelés;40;800;400;190;200;0
 Far breton;16;600;104;200;176;0
-ForÃªt noire;300;0;240;150;50;140
+Forêt noire;300;0;240;150;50;140
 Pasteis de nata;0;167;100;150;20;0
-GÃ¢teau marbrÃ©;150;0;150;200;150;100
+Gâteau marbré;150;0;150;200;150;100
 Tarte au chocolat;200;0;60;50;0;200
 Moka;210;0;300;350;90;0
-SablÃ©s;200;0;133;50;333;0
+Sablés;200;0;133;50;333;0
 Kouign-Amann;160;0;176;0;200;0
 Ile flottante;0;800;440;550;0;0
